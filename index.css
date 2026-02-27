@@ -81,7 +81,7 @@ nav a {
 
 .slides img {
     width: 100%;
-    height: 250px;   /* atur tinggi di sini */
+    height: 350px;   /* atur tinggi di sini */
     object-fit: cover;
     flex-shrink: 0;
 }
@@ -340,6 +340,7 @@ body::after {
     transform: scale(1.05);
     box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
+
 
 
 
